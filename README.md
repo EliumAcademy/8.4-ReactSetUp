@@ -1,7 +1,7 @@
 # ReactSetUp
 
 ```
-git clone https://github.com/reactjs/react-router-tutorial
+git clone git@github.com:EliumAcademy/8.4-ReactSetUp.git
 npm install
 npm start
 ```
